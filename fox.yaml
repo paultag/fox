@@ -1,0 +1,6 @@
+---
+listen: localhost:1337
+auth:
+  users:
+    - username: test
+      password: testing
