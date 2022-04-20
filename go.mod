@@ -1,4 +1,4 @@
-module paultag.tpl/fox
+module pault.ag/go/fox
 
 go 1.17
 
